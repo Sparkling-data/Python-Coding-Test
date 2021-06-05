@@ -1,5 +1,7 @@
 <h1 align='center'> User's Guide:clipboard: - Python Coding Test</p>
-<img src="https://assets.blog.engoo.com/wp-content/uploads/sites/2/2020/12/17183337/1-%EB%B3%B5%EC%82%AC-3-5.png" />
+
+<img src="https://quotefancy.com/media/wallpaper/3840x2160/434311-Usain-Bolt-Quote-There-are-better-starters-than-me-but-I-m-a.jpg" width="50%"/>
+
 <h4>:one: 이 과정에 참여하려 한다면, 이름폴더를 만든다. 양식은 다른 폴더들과 같이 맞춘다.
 
 <h4>:two: 제일 위에 있는 '- Questions' 폴더를 누른다.</p>
