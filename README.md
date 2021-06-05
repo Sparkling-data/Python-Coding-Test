@@ -8,6 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;(images 파일은 '문제.jpg' 들을 한곳에 모으기 위한 폴더이므로 무시한다.)
 
 <h4>:three: No_@ 문제를 푼 후, 개인 이름폴더에 업로드 한다.</p>
-<h4>:four: 다른 참여자들의 풀이를 본 후 궁금한 점이 생겼다면, 'Pull requests'를 이용한다.</p>
+<h4>:four: 매주 월요일 20:00 에 zoom을 통해 서로 문제풀이 설명. (필수아님:exclamation:)</p>
+<h4>:five: 다른 참여자들의 풀이를 본 후 궁금한 점이 생겼다면, 'Pull requests'를 이용한다.</p>
         
         
